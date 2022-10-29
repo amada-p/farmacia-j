@@ -1,0 +1,30 @@
+﻿section {
+    width: 80%;
+    float: left;
+    background-color: lightblue;
+}
+
+aside {
+    width: 100%;
+    float: left;
+    background-color: mintcream;
+    border-left: 1px solid white;
+}
+
+header {
+    padding: 25px;
+    background-color: firebrick;
+}
+
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #CFD8DC;
+}
+
+
+
+.contenedor {
+    display: flex;
+}
